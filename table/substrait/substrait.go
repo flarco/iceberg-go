@@ -34,7 +34,7 @@ var funcsetYAML string
 
 var (
 	collection = extensions.GetDefaultCollectionWithNoError()
-	funcSetURI = "https://github.com/apache/iceberg-go/blob/main/table/substrait/functions_set.yaml"
+	funcSetURI = "extension:apache:iceberg-go-functions_set"
 )
 
 func init() {
