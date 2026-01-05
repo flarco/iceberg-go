@@ -36,7 +36,6 @@ require (
 	github.com/hamba/avro/v2 v2.30.0
 	github.com/pterm/pterm v0.12.82
 	github.com/stretchr/testify v1.11.1
-	github.com/substrait-io/substrait-go/v4 v4.4.0
 	github.com/substrait-io/substrait-go/v7 v7.2.0
 	github.com/testcontainers/testcontainers-go/modules/compose v0.37.0
 	github.com/twmb/murmur3 v1.1.8
