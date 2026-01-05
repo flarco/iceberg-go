@@ -17,6 +17,7 @@
 
 %YAML 1.2
 ---
+urn: https://github.com/apache/iceberg-go/blob/main/table/substrait/functions_set.yaml
 scalar_functions:
   -
     name: "is_in"
